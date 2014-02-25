@@ -1,3 +1,8 @@
+# Process Tutorial Application Front End
+This application was built from the angular seed base. All the specifics from the angular readme are below and continue to be accurate for this project. 
+
+Angular is client-side technology so the only requirement for this project to run is that the files inside the app folder are hosted on a server. Other than that, the project requests content with ajax calls to the backend server. You can change where the app looks for the server in the app/js/services.js file (the serverBaseUrl variable at the top of the file). The backend code is also on Github at: https://github.com/jault3/ProcessTutorial
+
 # angular-seed — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
